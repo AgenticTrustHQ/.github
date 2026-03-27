@@ -11,12 +11,15 @@ AgenticTrust builds the boring-but-critical back-office that AI agents need to a
 ### Resources
 
 - 📖 [AAV Blog](https://agentauthority.dev/blog) — Insights on AI agent governance
-- 🎮 [AAV Playground](https://agentauthority.dev/playground) — Try the API without signing up
+- 📖 [Safe-Spend Blog](https://safe-spend.dev/blog) — Insights on AI agent spending controls
+- 🎮 [AAV Playground](https://agentauthority.dev/playground) — Try the AAV API without signing up
+- 🎮 [Safe-Spend Playground](https://safe-spend.dev/playground) — Try the Safe-Spend API without signing up
 - 📋 [Free Governance Review](https://tidycal.com/jeff-kohler-socialize/governance-review) — 30-min working session for teams building agents
 
 ### Open Source
 
 - [`aav-governance-skill`](https://github.com/AgenticTrustHQ/aav-governance-skill) — Agent governance skill for OpenClaw agents
+- [`safe-spend`](https://github.com/AgenticTrustHQ/safe-spend) — Docs, API reference, and quickstart for Safe-Spend
 
 ### Connect
 
